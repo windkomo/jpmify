@@ -1,0 +1,14 @@
+{
+    "different": "diferent",
+    "extended": "extented",
+    "finished": "finitsht",
+    "gentille": "bonne",
+    "(\\s|^)le\\s\\b": "$1la ",
+    "mimo": "memo",
+    "opacity": "opoacity",
+    "pero": "pierrot",
+    "revert": "revert revert",
+    "savinien": "stavinien",
+    "warning": "warking",
+    "where": "whore"
+}
