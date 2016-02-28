@@ -36,17 +36,3 @@ This will print out :
 ```
 Vous êtes trop bonne, toutefois l’opoacity du hover sur la dashboard laisse à désirer, et la state finitsht
 ```
-
-### Console
-
-You can also simply run it as a node app with the string to jpmify as the first argument :
-
-```
-node index.js vous êtes trop gentille
-```
-
-This will print out :
-
-```
-Vous êtes trop bonne
-```
