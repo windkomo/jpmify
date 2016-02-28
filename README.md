@@ -9,7 +9,7 @@ npm install jpmify
 
 ## Usage
 
-### ES<5
+### ES5
 
 ```javascript
 var jpmify = require('jpmify');
