@@ -1,11 +1,11 @@
 import { EventEmitter } from 'events'
 
-import Dictionnary from './jpm'
+import Dictionnary from '../jpm.json'
 
 let words = process.argv.slice(2)
 let input = words.join(' ')
 
-let jpmify = (string) => {
+export default (string) => {
     for (var key in Dictionnary) {
         let regexp = new RegExp(key, 'gi');
         string = string.replace(regexp, Dictionnary[key])
@@ -13,7 +13,3 @@ let jpmify = (string) => {
 
     return string
 }
-
-console.log(jpmify(input))
-
-export default jpmify
