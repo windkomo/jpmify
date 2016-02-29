@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "files": [
-    "jpm.json"
+    "jpm.json",
+    "lib"
   ],
   "scripts": {
     "prepublish": "babel src --out-dir lib"
