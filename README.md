@@ -1,3 +1,5 @@
+[![Circle CI](https://circleci.com/gh/windkomo/jpmify.svg?style=svg)](https://circleci.com/gh/windkomo/jpmify)
+
 # jpmify
 A tribute to the best committer of all times
 
